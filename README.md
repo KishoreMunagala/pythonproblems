@@ -12,7 +12,7 @@ if __name__ == "__main__":
     generate_strings(characters)
 
 
-Certainly! Here's an explanation of the provided Python code:
+Here's an explanation of the provided Python code:
 
 1. `def generate_strings(characters, current_string=""):`: This line defines a function called `generate_strings` that takes two arguments: `characters` and `current_string`, with `current_string` having a default value of an empty string.
 
